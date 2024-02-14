@@ -15,4 +15,6 @@ Place patch in orangepi-build/userpatches/kernel/sun50iw9-next/ folder.
 There are some limits - pulseaudio default-sample-format should be s24le or s32le.  
 The ahub driver seems to be work-in-progress, because HDMI audio is affected too.  
 
+Upd:
+A mode advanced patch can be used: https://github.com/warpme/minimyth2/blob/master/script/kernel/linux-6.5/files/0617-0608-sound-soc-sunxi-fix-no-Rch-and-slow-24bit.patch
 
