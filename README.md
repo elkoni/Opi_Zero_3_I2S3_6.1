@@ -19,4 +19,7 @@ Upd:
 A mode advanced patch can be used: https://github.com/warpme/minimyth2/blob/master/script/kernel/linux-6.5/files/0617-0608-sound-soc-sunxi-fix-no-Rch-and-slow-24bit.patch  
 
 [Example image](https://drive.google.com/file/d/1IGGYXiJOH4IBwNMbRh2KacJHDskBaXr2/view?usp=drive_link) .  
+Seems wpa_supplicant is missing.  
+[Another one ( server )](https://drive.google.com/file/d/12EO4HEJs_PYDNvSbGz3h3Xyr2x2iXt5v/view?usp=drive_link) .  
+
 
